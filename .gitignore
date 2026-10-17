@@ -1,0 +1,12 @@
+.DS_Store
+*.swp
+*~
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+__pycache__/
+.venv/
+dist/
+build/
