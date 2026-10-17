@@ -7,4 +7,5 @@
 
 ## Cursor Cloud specific instructions
 - Setup: `scripts/cloud-install.sh` (idempotent). Nothing to start yet.
+- Skills: `.agents/skills/explore-data-view`, `.agents/skills/untrusted-web-text`.
 
