@@ -9,3 +9,5 @@
 - Setup: `scripts/cloud-install.sh` (idempotent). Nothing to start yet.
 - Skills: `.agents/skills/explore-data-view`, `.agents/skills/untrusted-web-text`.
 
+
+Skills: for multi-step or repeated work, use a matching skill from `.agents/skills/` or the cross-repo index (`ai-authored/skills/INDEX.md` in machine-flows); afterwards propose a new skill or an edit. One-off asks skip this.
